@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "matrices.h"
 
 int main()
 {
@@ -36,14 +37,9 @@ int main()
     }
 
     //Transposition
-    printf("Matrice transposée: \n")
-    for (int i = 0; i < li; i++)
-    {
-        for (int j = 0; j < co; j++)
-        {
-            T[j][i] = A[i][j];
-        }
-    }
+    printf("Matrice transpose: \n");
+
+    transposer_matrice(li,co,A,T);
 
     for (int i = 0; i < li; i++)
     {

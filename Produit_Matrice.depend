@@ -1,5 +1,13 @@
 # depslib dependency file v1.0
-1761068692 source:f:\fano\langage c\produit_matrice\main.c
+1761237720 source:f:\fano\langage c\produit_matrice\main.c
 	<stdio.h>
 	<stdlib.h>
+	"matrices.h"
+
+1761237655 source:f:\fano\langage c\produit_matrice\transposer.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1761237891 f:\fano\langage c\produit_matrice\matrices.h
 
