@@ -11,3 +11,20 @@
 
 1761237891 f:\fano\langage c\produit_matrice\matrices.h
 
+1762489649 source:c:\projet\matrice-transposer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1762493874 c:\projet\matrice-transposer\matrices.h
+
+1762446136 source:c:\projet\matrice-transposer\transposer.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1762489435 source:c:\projet\matrice-transposer\produit.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
